@@ -1,0 +1,12 @@
+**********************************************
+*      To run Mayavi package We must have   **
+*         Following packages installed in   **
+*            our system.                    **
+**********************************************
+
+Prerequisit packages for mayavi to work
+1. vtk install in python using command promot with comand -- pip install vtk
+2. pyqt needs to be installed already   
+3. pySide6
+4. last one mayavi
+5. In juypter notebook needs to activate pyqt using command " %gui qt5 "
